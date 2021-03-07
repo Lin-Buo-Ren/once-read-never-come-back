@@ -25,65 +25,10 @@ This file is in HackMD Book Mode :book: syntax.
 * [磁碟映像格式<br>Disk image formats](https://hackmd.io/@brlin/orncb-disk-image-formats)
 * [資料加密技術<br>Data encryption technologies](/@brlin/orncb-data-encryption-technologies)
 * [封存與壓縮<br>Archival and compression](/@brlin/orncb-archival-and-compression)
-* [資料存儲管理<br>Storage management](/vl_mKOUvSK6GzYHGHgn6Ww)
-
-## 虛擬化與容器技術<br>Virtualization and Container Technologies
-### 基本概念
-* [:heavy_check_mark: 虛擬化 - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/%E8%99%9B%E6%93%AC%E5%8C%96)
-* [:heavy_check_mark: Hypervisor - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/Hypervisor)
-* [:heavy_check_mark: 仿真器 - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/%E4%BB%BF%E7%9C%9F%E5%99%A8)
-* [:heavy_check_mark: terminology - Simulator or Emulator? What is the difference? - Stack Overflow](https://stackoverflow.com/questions/1584617/simulator-or-emulator-what-is-the-difference)
-* [Paravirtualization - Wikipedia](https://en.wikipedia.org/wiki/Paravirtualization)
-* [:heavy_check_mark: QEMU - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/QEMU)
-* [x86 virtualization - Wikipedia](/bzzhxw8bR3evyDmoWMd04A)
-* [:heavy_check_mark: Input–output memory management unit - Wikipedia](https://en.wikipedia.org/wiki/Input%E2%80%93output_memory_management_unit#Virtualization)
-* [:heavy_check_mark: Graphics address remapping table - Wikipedia](https://en.wikipedia.org/wiki/Graphics_address_remapping_table)
-* [Virtualization - Wikipedia](/x3gc_LXnQnibSQkCQJEZig)
-* [Hardware virtualization - Wikipedia](/cSPvBD58RwmeEg8FH1c5uQ)
-
-### Xen
-* [:heavy_check_mark: Xen - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/Xen)
-
-### OpenStack
-* [OpenStack Docs: OpenStack Virtual Machine Image Guide](/HRyai_PmSry--9md75LcsA)
-
-### Proxmox VE
-* [Proxmox VE 官方文件](/@brlin/orncb-pve-docs)
-* [:heavy_check_mark: Time Synchronization - Proxmox VE](https://pve.proxmox.com/wiki/Time_Synchronization)
-* [:heavy_check_mark: Nested Virtualization - Proxmox VE](https://pve.proxmox.com/wiki/Nested_Virtualization)
-* [:heavy_check_mark: Cloud-Init FAQ - Proxmox VE](/nKFzZSsTQEKeTWoIOWm-IA)
-* [Cloud-Init Support - Proxmox VE](https://pve.proxmox.com/wiki/Cloud-Init_Support)
-
-### Docker
-* [Docker 官方文件](/@brlin/orncb-docker-docs)
-* [Play with Docker Classroom](https://training.play-with-docker.com/)
-
-### LXD and LXC
-* [LXD 說明文件](https://hackmd.io/EqfaJZusQa28kWcACPiG0w)
-
-### VMware Esxi <mark>專有軟體</mark>
-
-### Vagrant<br><https://www.vagrantup.com/>
-* [Vagrant 官方介紹文件](/@brlin/orncb-vagrant-intro)
-* [Vagrant 官方文件](/@brlin/orncb-vagrant-docs)
-* [Contributing to Vagrant](/3MGTaL50SvqDqQA8XsuLow)
-
-## 進程管理<br>Process Management
-### Systemd
-* [首頁](https://www.freedesktop.org/wiki/Software/systemd/)
-* [✓machine-info](http://0pointer.de/public/systemd-man/machine-info.html)
-* [systemd.unit — Unit configuration](/u6en3hCUSIuD7LSj9_sIMA)
-* [✓systemd.syntax — General syntax of systemd configuration files](/TOYqlVsLT1yKFbGQ7Bb4cQ)
-* [systemd.service — Service unit configuration](/n9cYRenpRtikC1YpKXwOhQ)
-* [systemd.exec — Execution environment configuration](/AGspqeoNTAKdAmtKOukDkQ)
-* [:heavy_check_mark: Running Services After the Network is up](/H4tiq214R6meREIvR7hoxA)
-
-### Supervisor: A Process Control System<br>http://supervisord.org/
-* [Supervisor官方文件](/@brlin/orncb-supervisor-docs)
-
-## 自動化測試<br>Automated testing
-### Robot Framework
-* [Robot Framework Quick Start Guide](/dXlDZ_cgQT2UI7FIyflrpg)
+* [資料存儲管理<br>Storage management](/@brlin/orncb-storage-management)
+* [虛擬化與容器技術<br>Virtualization and Container Technologies](/@brlin/orncb-virtualization-and-container-technologies)
+* [進程管理<br>Process Management](/U48Ls7_MQOythC6ncQAuVA)
+* [自動化測試<br>Automated testing](/nJfn8EhISNuKiQcYeiSzxQ)
 
 ## 靜態網站產生器<br>Static site generator
 
