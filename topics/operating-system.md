@@ -1,5 +1,7 @@
 # Live USB - Wikipedia
 
+[![hackmd-github-sync-badge](https://hackmd.io/SpfhWsG-RNuSMat5WmW5rQ/badge)](https://hackmd.io/SpfhWsG-RNuSMat5WmW5rQ)
+
 <https://en.wikipedia.org/wiki/Live_USB>
 
 - [x] (preface)
