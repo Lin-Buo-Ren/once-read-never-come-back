@@ -1,9 +1,12 @@
 # 已讀不回<br>Once Read, Never Come Back<br><https://hackmd.io/@brlin/once-read-never-come-back><br><http://bit.ly/once-read-never-come-back>
+
 Just kidding, come back as long as you want to review something.
 
 :::info
 This file is in HackMD Book Mode :book: syntax.
 :::
+
+[![hackmd-github-sync-badge](https://hackmd.io/B4ppT6WcRt-QSAnRQ2Tg9A/badge)](https://hackmd.io/B4ppT6WcRt-QSAnRQ2Tg9A)
 
 * [首頁<br>Main Page](/B4ppT6WcRt-QSAnRQ2Tg9A)
 
@@ -12,90 +15,17 @@ This file is in HackMD Book Mode :book: syntax.
 * [能幫上忙的Web瀏覽器擴充功能<br>Helpful Web Browser Extensions](/0XHN0VluSbWGfg3rVdccqQ)
 * [能幫上忙的應用軟體<br>Helpful applications](/Rhkkf-VkQVa3t5A3A0rkNg)
 * [常用的搜尋與取代關鍵字<br>Helpful search and replace keywords](/V4LPOf-lTvGMfmMd1LLZBg)
+* [新主題模板<br>Topic template](/@brlin/orncb-topic-template)
 
 ## 主題<br>Topics
 
 * [電腦韌體<br>Computer Firmware](/@brlin/orncb-computer-firmware)
 * [檔案系統<br>File System](/@brlin/orncb-file-system)
-* [作業系統<br>Operating System](/akfvM06MTmmoWWhkrAsnKw)
-
-GNU+Linux 作業系統請參照 <a href='#GNULinux%E4%BD%9C%E6%A5%AD%E7%B3%BB%E7%B5%B1%E6%95%A3%E4%BD%88%E7%89%88GNULinux-Operating-System-Distributions' target='_self'>GNU/Linux作業系統散佈版</a>
-
-Microsoft Windows作業系統請參照 <a href='#Microsoft-Windows作業系統' target='_self'>Microsoft Windows作業系統</a>
-
-### 基本概念
-
-* [Live USB - Wikipedia](/SpfhWsG-RNuSMat5WmW5rQ)
-
-## Microsoft Windows作業系統
-
-:::danger
-專有軟體注意
-:::
-
-### 基本概念
-* [✓Security Identifiers(SID)](https://hackmd.io/44XHJqgzQCuhiSxBO1MBUw?view)
-* [Windows desktop applications](https://hackmd.io/5EfY-c1qTQu8s6NVZbRqzw)
-* :heavy_check_mark: [ReadyBoost - Wikipedia](https://en.wikipedia.org/wiki/ReadyBoost)
-
-### Windows To Go
-* [:heavy_check_mark: Windows To Go - Wikipedia](https://en.wikipedia.org/wiki/Windows_To_Go)
-* [WinToUSB - Best Free Windows To Go Creator Wizard Helps Create Portable Windows 10/8/7!](https://www.easyuefi.com/wintousb/)
-
-### Windows Preinstallation Environment(Windows PE)
-
-* [Windows Preinstallation Environment - Wikipedia](/U_NTnkwGTNeA97JQxlv3bA)
-
-## 磁碟映像格式<br>Disk image formats
-
-### Windows Imaging Format (WIM)
-
-* [:heavy_check_mark: Windows Imaging Format - Wikipedia](https://en.wikipedia.org/wiki/Windows_Imaging_Format)
-* [:heavy_check_mark: wimlib - Main page](/Phz2REk_QA2uarhh3Fbz6w)
-* [:heavy_check_mark: WIMLIB-IMAGEX](https://wimlib.net/man1/wimlib-imagex.html)
-
-### Virtual Hard Disk (VHD)
-
-* [:heavy_check_mark: VHD (file format) - Wikipedia](/PXZllgtxQRKgS6_zXG6Emg)
-
-### Virtual Machine Disk (VMDK)
-
-* [:heavy_check_mark: VMDK - Wikipedia](https://en.wikipedia.org/wiki/VMDK)
-
-### QEMU Copy On Write (qcow)
-
-* [:heavy_check_mark: qcow - Wikipedia](https://en.wikipedia.org/wiki/Qcow)
-
-## 資料加密技術<br>Data encryption technologies
-
-### VeraCrypt
-
-* [:heavy_check_mark: VeraCrypt - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/VeraCrypt#%E4%BC%BC%E6%98%AF%E8%80%8C%E9%9D%9E%E7%9A%84%E5%90%A6%E8%AE%A4)
-* [VeraCrypt 官方文件](/eOAV94j5TNuX9OqNYDQW6w)
-
-### LUKS
-
-* [cryptsetup - manage plain dm-crypt and LUKS encrypted volumes](/9RKrzZRwR-yghmZJAP-e9Q)
-
-## 資料儲存技術<br>Storage Technologies
-
-### 封存與壓縮<br>Archival and compression
-* [:heavy_check_mark: Solid compression - Wikipedia](https://en.wikipedia.org/wiki/Solid_compression)
-
-## 資料存儲管理<br>Storage management
-### 基本觀念
-* [:heavy_check_mark: NVDIMM - Wikipedia](https://en.wikipedia.org/wiki/NVDIMM)
-* [World Wide Name - Wikipedia](/aR0EVu_kRLSSY7sx_DEWmg)
-* [:heavy_check_mark: LBA - OSDev Wiki](https://wiki.osdev.org/LBA)
-* [先進格式 4K 磁區硬碟機轉換 | Seagate 台灣](https://www.seagate.com/tw/zh/tech-insights/advanced-format-4k-sector-hard-drives-master-ti/)
-* [Volume (computing) - Wikipedia](https://en.wikipedia.org/wiki/Volume_(computing))
-
-### ZFS
-* [zfsconcepts.8 — OpenZFS documentation](/YaltUUoJS5KUgSS5b0gOKg)
-* [Aaron Toponce : ZFS Administration, Part X- Creating Filesystems](https://pthree.org/2012/12/17/zfs-administration-part-x-creating-filesystems/)
-* [章 19. Z 檔案系統 (ZFS)](https://www.freebsd.org/doc/zh_TW/books/handbook/zfs.html)
-
-### LVM
+* [作業系統<br>Operating System](/@brlin/orncb-operating-system)
+* [磁碟映像格式<br>Disk image formats](https://hackmd.io/@brlin/orncb-disk-image-formats)
+* [資料加密技術<br>Data encryption technologies](/@brlin/orncb-data-encryption-technologies)
+* [封存與壓縮<br>Archival and compression](/@brlin/orncb-archival-and-compression)
+* [資料存儲管理<br>Storage management](/vl_mKOUvSK6GzYHGHgn6Ww)
 
 ## 虛擬化與容器技術<br>Virtualization and Container Technologies
 ### 基本概念
@@ -299,36 +229,6 @@ Microsoft Windows作業系統請參照 <a href='#Microsoft-Windows作業系統' 
 
 ### 頻寬管理<br>Bandwidth management
 * [Jan Ho 的網絡世界 - Bandwidth Management 頻寬管理](/yRdM-k3fR9e9SpUcoEufdg)
-
-## GNU/Linux作業系統散佈版<br>GNU/Linux Operating System Distributions
-### 泛用GNU/Linux散佈版<br>Generic GNU/Linux Distributions
-* [ld-linux.so(8)的manpage使用手冊頁面](/YA7Mnt5zRFOYMQbHMOFVjg)
-* [Filesystem Hierarchy Standard(F.H.S.)<br>檔案系統階層標準](/@brlin/orncb-fhs)
-* [Linux Programmer's Manual](/@brlin/orncb-linux-programmer-s-manual)
-* [Linux Standard Base(LSB)規範](/@brlin/orncb-lsb-specs)
-
-### RedHat Enterprise Linux(RHEL)
-* [System Administrator's Guide - Red Hat Customer Portal](/jFyVANncQ2WRSv5FuxzuAQ)
-* [Managing and monitoring security updates - Red Hat Customer Portal](/Q5lQ7VcpTyuvTplovU9ORQ)
-* [Storage Administration Guide - Red Hat Customer Portal](/xKkUvQ57T3GyU02I0FNrcQ)
-* [(Obsoleted) Deployment Guide - Red Hat Customer Portal](/Nm_mIKBHS8WYge0-aHnGJw)
-* [Security Guide - Red Hat Customer Portal](/Gq4gmxEBQt677PB1OCLtLw)
-* [Deploying different types of servers Red Hat Enterprise Linux 8 | Red Hat Customer Portal](/3ny0IRFgQfKUzwb_7H3EDw)
-* [Using SELinux](/yP-0r6AkQDW_U1p-abRMdw)
-* [(Obsoleted) Security Guide Red Hat Enterprise Linux 6 | Red Hat Customer Portal](/bJrym7pGRRyNf1-DZbHobw)
-
-### CentOS
-- [irc - CentOS Wiki](/s4rAcIhjQjWAfGuiyrsnRA)
-
-### Debian
-* [Debian參考手冊](https://hackmd.io/DLYvw4fvTsuRyu-sp1ctzA)
-* [DebianPackageManagement - Debian Wiki](https://wiki.debian/DebianPackageManagement)
-* [update-alternaties(1) 的使用手冊](https://hackmd.io/6YTUpv_DSjSdNf1fMP4PFA#)
-
-### Ubuntu
-* [✓SeedManagement - Ubuntu Wiki](https://wiki.ubuntu.com/SeedManagement)
-* [SecurityTeam/FAQ - Ubuntu Wiki](https://wiki.ubuntu.com/SecurityTeam/FAQ#Official_Support)
-* [SimplifiedLiveCD - Ubuntu Wiki](https://wiki.ubuntu.com/SimplifiedLiveCD)
 
 ## 虛擬私人網路<br>Virtual Personal Network(VPN)
 ### OpenVPN
