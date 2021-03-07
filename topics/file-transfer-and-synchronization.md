@@ -8,3 +8,7 @@ tags: 已讀不回, orncb
 <https://hackmd.io/@brlin/orncb-file-transfer-and-synchronization><br>[![hackmd-github-sync-badge](https://hackmd.io/eZ1Qrz_kQKG7CdcPftwHmg/badge)](https://hackmd.io/eZ1Qrz_kQKG7CdcPftwHmg)
 
 * [首頁<br>Main page](/eZ1Qrz_kQKG7CdcPftwHmg)
+
+## Syncthing
+
+* [Getting Started — Syncthing v1 documentation](https://docs.syncthing.net/intro/getting-started.html)
